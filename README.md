@@ -24,4 +24,4 @@ streamlit run app.py
 ```
 
 ---
-If you like the repo, feel free to explore! 
+If you like the repo, feel free to explore and suggest improvements! 
