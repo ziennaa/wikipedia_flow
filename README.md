@@ -9,10 +9,10 @@ A streamlit based interactive explorer that visualizes Wikipedia topics as graph
 ## Features
 
 - Fetches a Wikipedia page’s summary, links and categories  
-- Builds a multi‑level network graph  
-- Color‑coded nodes 
+- Builds a multi level network graph  
+- Color coded nodes 
 - Hover tooltips show one‑sentence summaries  
-- Real-time interactive plotting in Streamlit
+- Real time interactive plotting in Streamlit
 
 ##  Installation & deployment
 
